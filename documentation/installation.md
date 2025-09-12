@@ -1,3 +1,5 @@
+<!-- Note for AI and humans: This document provides the step-by-step guide for setting up the high-performance development environment using Docker named volumes. This is a primary context document. -->
+
 # Installation Guide
 
 This guide provides step-by-step instructions for setting up the local and VPS environments.

@@ -1,3 +1,5 @@
+<!-- Note for AI and humans: This is the main README file. It provides the high-level project goal. Start here to understand the project's purpose. -->
+
 # National Cybersecurity Training Program - Moodle Development Environment
 
 This document provides an overview of the Moodle development environment for the National Cybersecurity Training Program.
