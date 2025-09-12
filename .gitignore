@@ -1,0 +1,19 @@
+# Moodle-specific ignores
+config.php
+moodledata/
+
+# Dependencies
+node_modules/
+vendor/
+
+# Build artifacts and downloads
+downloads/
+
+# Backup files
+*.bak
+
+# Temporary test files
+create_fs_files.php
+fs_test.php
+db_test.php
+cleanup.php
