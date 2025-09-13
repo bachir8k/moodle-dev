@@ -1,5 +1,6 @@
 # Moodle-specific ignores
-/config.php
+# Ignore the main Moodle config file, but not theme/plugin configs.
+/moodle/config.php
 moodledata/
 
 # Dependencies
@@ -17,3 +18,9 @@ create_fs_files.php
 fs_test.php
 db_test.php
 cleanup.php
+
+# Project-specific ignores
+.vscode/
+moodle-dev.code-workspace
+README.md
+documentation/
